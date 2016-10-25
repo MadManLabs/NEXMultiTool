@@ -25,23 +25,23 @@
             Dim OpenCMD = CreateObject("wscript.shell")
             OpenCMD.run("rundll32 printui.dll PrintUIEntry /in /n \\nexfileserverb\ELP_Office_Canon_C2020")
         End If
-        If CheckBox7.Checked = True Then
-            Dim OpenCMD = CreateObject("wscript.shell")
-            OpenCMD.run("")
-        End If
-        If CheckBox8.Checked = True Then
-            Dim OpenCMD = CreateObject("wscript.shell")
-            OpenCMD.run("")
-        End If
-        If CheckBox9.Checked = True Then
-            Dim OpenCMD = CreateObject("wscript.shell")
-            OpenCMD.run("")
-        End If
-        If CheckBox10.Checked = True Then
-            Dim OpenCMD = CreateObject("wscript.shell")
-            OpenCMD.run("")
-        End If
-        MsgBox("Installation is complete!")
+        'If CheckBox7.Checked = True Then
+        '    Dim OpenCMD = CreateObject("wscript.shell")
+        '    OpenCMD.run("")
+        'End If
+        'If CheckBox8.Checked = True Then
+        '    Dim OpenCMD = CreateObject("wscript.shell")
+        '    OpenCMD.run("")
+        'End If
+        'If CheckBox9.Checked = True Then
+        '    Dim OpenCMD = CreateObject("wscript.shell")
+        '    OpenCMD.run("")
+        'End If
+        'If CheckBox10.Checked = True Then
+        '    Dim OpenCMD = CreateObject("wscript.shell")
+        '    OpenCMD.run("")
+        'End If
+        'MsgBox("Installation is complete!")
     End Sub
 
     Private Sub ExitToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ExitToolStripMenuItem.Click

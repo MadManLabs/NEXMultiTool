@@ -117,32 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="MenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-        AAAAAAAAAAAAAAAAAAAAAAAAJiYmADMzMx43NzcCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-        AAAAAAAAAAAAAAAAAAAAAAAAJSUlCiUlJaYzMzP/Tk5N7jw8PL43NzeONzc3XDc3Nyw3NzcEAAAAAAAA
-        AAAAAAAAAAAAAAAAAAAAAAAAJSUlHiUlJcwrKyv/b29v/4mJiP9nZ2f/PDw8/zc3N/83Nzf/Nzc39Dc3
-        N8g3NzeYNzc3RgAAAAAAAAAAJSUlPiUlJeg3Nzf/cnJy/6ioqP+2trb/xMTE/8HBwf+ampr/eXl4/3R0
-        dP9fX1//R0dH/zg4OLgAAAAAJSUlGiUlJfhJSUn/e3t7/35+fv+lpaX/u7u7/8zMzP/Ly8v/w8PD/8fH
-        x//Hx8f/xsbG/76+vv+5ubngAAAAADg4OCheXl7/fn5+/35+fv9+fn7/pKSk/8rKyv/W1tb/1dXV/8jI
-        yP+0tLT/xcXF/87Ozv/MzMz/ysrK/MvLywp2dnYwfn5+/3h4eP97e3v/fn5+/6Ojo//Z2dn/19fX/9bW
-        1v/W1tb/1dXV/9TU1P/U1NT/1dXV/9DQ0P/V1dUqeHh4NnV1df9xcXH/e3t7/35+fv+kpKT/3t7e/93d
-        3f/d3d3/3Nzc/9zc3P/b29v/2tra/9fX1//W1tb/19fXRHh4eD50dHT/eXl5/35+fv9+fn7/qKio/+Pj
-        4//i4uL/4uLi/+Hh4f/g4OD/39/f/9/f3//e3t7/3d3d/93d3VZ5eXlGfX19/35+fv9+fn7/fn5+/7Gx
-        sf/o6Oj/6Ojo/+fn5//m5ub/5eXl/+Xl5f/k5OT/4+Pj/+Li4v/i4uJgeXl5Tn5+fv9+fn7/fn5+/35+
-        fv+/v7//5+fn/+jo6P/p6en/6enp/+np6f/p6en/6enp/+jo6P/o6Oj/5+fnXHp6elR+fn7/fn5+/35+
-        fv9/f3//1tbW/+Dg4P/h4eH/4uLi/+Pj4//k5OT/5eXl/+bm5v/n5+f/6Ojo/+jo6EJ6enpcfn5+/35+
-        fv9+fn7/np6e/8LBwv/V1dX/19fY/9nb3P/b29v/3d3d/97e3v/f39//39/f/+Dg4Ozj4+MKe3t7ZH5+
-        fv+AgID/mpqa/6Kqov+Lj5H/vL7A/8bN1//P2ef/0tvp/9Pb6P/U2+X/09XY/9TU1P/X19duAAAAAHNz
-        cxyHh4dYqampcq2trYy2tbWmvbu7wLq5uNq4uLf0urq7/6mqrf+eoaX/pqeo9ru7u7bHx8dKAAAAAAAA
-        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqKioAKioqBCoqKgmq6urJK6urgYAAAAAAAAAAAAA
-        AAAAAAAA//8AAPB/AADgAwAAwAEAAIABAACAAQAAgAEAAIABAACAAQAAgAEAAIABAACAAQAAgAEAAIAD
-        AADgBwAA//8AAA==
-</value>
+  <data name="TextBoxDescription.Text" xml:space="preserve">
+    <value>Description :
+
+(At runtime, the labels' text will be replaced with the application's assembly information.
+Customize the application's assembly information in the Application pane of Project Designer.)</value>
   </data>
 </root>
